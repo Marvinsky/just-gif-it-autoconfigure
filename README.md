@@ -1,3 +1,6 @@
+## Disclaimer
+This project belongs to Dustin Schultz as part of PluralSight's course of Spring Boot
+
 ## About
 Spring Boot Just-Gif-It Auto Configuration Module
 
